@@ -55,7 +55,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 > [!NOTE]
 > ### 👥 THE OTHER HALF
-> *CONNECTED TO:* `[https://github.com/OlegOrHazar]`
+> *CONNECTED TO:* `Hazar`
 > *"Two targets. One mission. If you see us together, you are already too late."*
 
 ---
