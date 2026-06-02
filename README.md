@@ -74,7 +74,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 *   **Tactical & Brutal:** Call of Duty (Modern versions / Frost Derek fan), Mortal Kombat (All eras), Kill Knight, Hatred, Postal series.
 *   **Atmospheric & Detective:** Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.
 *   **Pure Style:** STRAFE (That Doom aesthetic and god-tier soundtrack is unmatched).
-*   **Universes:** Metal Family (Independent Indie Animation) // Deeply appreciate the character **Dee**. I have a huge soft spot for its unique, indescribable indie charm and that specific, raw family atmosphere from a small studio.
+*   **Universes:** Metal Family (Independent Animation)
 *   **Audio-Driven Masterpieces:** Elden Ring // I am highly drawn to this game primarily due to its incredible soundtrack. I often look for games with exceptional scores like this, and I am always open to exploring more titles driven by phenomenal music.
 
 ### ⏳ NEW FRONTIERS
@@ -100,7 +100,7 @@ I grew up on pure Newgrounds gold and high-tier electronic violence. Current hea
 
 Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
 
-*   **Station Link:** 🎧 **[Click here to visit my SoundCloud Profile](https://soundcloud.com/beobnoxious/likes)**
+*   **Station Link:** 🎧 **[Click here to visit my SoundCloud](https://soundcloud.com/beobnoxious/likes)**
 *   **What I do:** I love curating tracklists, sharing music, and dropping heavy recommendations. If you have an ear for good audio, go ahead and explore my playlists.
 
 ---
