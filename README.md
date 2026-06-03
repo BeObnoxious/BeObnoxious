@@ -1,9 +1,10 @@
 <div align="center">
 
-# BEOBNOXIOUS. ALWAYS PREVAIL.
+# ⚓︎ BE OBNOXIOUS. ALWAYS PREVAIL.
 *«I don't look for trouble. Trouble usually finds me.»*
 
----
+$$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋}$$
+
 
 <img width="36" height="36" alt="roblox" src="https://github.com/user-attachments/assets/5c368d0d-da7f-484d-adab-ac4fefc28658" />
 <img width="36" height="36" alt="steam" src="https://github.com/user-attachments/assets/34f885d3-c797-40de-a1e9-444e0e58b8cb" />
@@ -17,23 +18,23 @@
 
 </div>
 
-## 🌐 LANGUAGE BARS
-*   **English:** 🇬🇧 Fluent (Modern British format).
-*   **Russian:** 🇷🇺 Native speaker. 
+## $$\color{#7B96B8}\textsf{⚐ LANGUAGE BARS}$$
+＞  **English:** Fluent (British).
 
-> [!NOTE]
-> **Clarification on Origin:** Living in Russia or speaking the language natively **does not** define my actual ethnicity or nationality. Do not make lazy assumptions based on geography.
+＞   **Russian:** Native speaker.
 
-
----
-
-> [!IMPORTANT]
-> ### 🛑 ANTI-XENOPHOBIA STANCE
-> There is no room here for political prejudice or national discrimination. I find the trend of excluding people based on their language or origin to be fundamentally flawed. If you support "Do Not Interact" lists based solely on nationality or engage in xenophobic gatekeeping, our views are incompatible. I stand firmly against such divisive attitudes.
+<table><tr><td bgcolor="#1f232a" style="border-left: 4px solid #58A6FF; padding: 10px;">$$\color{#7B96B8}\textsf{\textbf{ⓘ Note:}}\ \color{#7B96B8}\textsf{\textbf{Clarification on Origin}}$$ <br><br> Living in Russia or speaking the language natively <b>does not</b> define my actual ethnicity or nationality. Do not make lazy assumptions based on geography.</td></tr></table>
 
 ---
 
-## 💀 SYSTEM OVERVIEW (WHO THE HELL AM I?)
+### $$\color{#D9534F}\textsf{⚠ IMPORTANT:}\ \color{#7B96B8}\textsf{ANTI-XENOPHOBIA STANCE}$$
+
+There is no room here for political prejudice or national discrimination. I find the trend of excluding people based on their language or origin to be fundamentally flawed. If you support "Do Not Interact" lists based solely on nationality or engage in xenophobic gatekeeping, our views are incompatible. I stand firmly against such divisive attitudes.
+</td></tr></table>
+
+---
+
+## $$\color{#7B96B8}\textsf{☠ SYSTEM OVERVIEW (WHO THE HELL AM I?)}$$
 
 Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I'm not here to please everyone, but I always **prevail**. 
 
@@ -44,38 +45,52 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-### 🦄 PONY TOWN RULES & BOUNDARIES
+### $$\color{#7B96B8}\textsf{☊ PONY TOWN RULES AND BOUNDARIES}$$
+
 *   **Whisper to Interact:** Preferred method of contact.
 *   **Skin Protection:** Do not copy my designs. I value originality.
-*   **Skin Creation:** I really love making detailed Pony Town skins and custom designs, though I admit I can be quite lazy when it comes to actually sitting down and building them :p
+*   **Skin Creation:** I really love making detailed Pony Town skins and custom designs, though I admit I can be quite lazy when it comes to actually sitting down and building them.
 *   **Interaction:** Cuddles or social interactions are vibe-dependent.
-*   **🚨 SUPPORTER STATUS:** If I am currently a Supporter... However, please do not ask for help with party limits or slot expansions. I am already in a party and cannot assist with these requests.
+*   **⚚ SUPPORTER STATUS:** I am currently a Supporter. However, please do not ask for help with party limits or slot expansions. I am already in a party and cannot assist with these requests.
+
 
 ---
 
-> [!NOTE]
-> ### 👥 THE OTHER HALF
-> *CONNECTED TO:* `Hazar`
-> *"Two targets. One mission. If you see us together, you are already too late."*
+## $$\color{#7B96B8}\textsf{\textbf{⌖ THE OTHER HALF}}$$
+
+<table>
+<tr>
+<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;">
+CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
+<br><br>
+<i>$$\color{#FF6961}\textsf{"Two targets. One mission. If you see us together, you are already too late."}$$</i>
+</td>
+<td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
+<!-- Ссылка на твой красный PNG логотип Торда (Красного Лидера) -->
+<img width="42" height="42" alt="Red Leader Logo" src="https://github.com" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 THE MAIN ROTATION (PRIORITIES & KINS)
+## $$\color{#7B96B8}\textsf{⚁ THE MAIN ROTATION (PRIORITIES AND KINS)}$$
 
 ```markdown
 [✦] EDDSWORLD       -> Kin: Tom (Keep it canon or don't talk to me) | "Holy trombone on a pogo stick!"
-[✦] DEVIL MAY CRY 5 -> Kin: Dante | "Jackpot!"
+[✧] DEVIL MAY CRY 5 -> Kin: Dante | "Jackpot!"
 [✦] HOTLINE MIAMI   -> 6-Year Hyperfixation | Biker enthusiast | "You're dead meat."
-[✦] MADNESS COMBAT  -> The OG Fandom | Simping Doc | Classic Lore Only (No Project Nexus stuff here)
+[✧] MADNESS COMBAT  -> The OG Fandom | Simping Doc | Classic Lore Only (No Project Nexus stuff here)
 [✦] ULTRAKILL       -> Stable GoPro Robot obsession. 
 ```
 
-### 🔁 GAMES IN ROTATION & INDIE GEMS
-*   **Tactical & Brutal:** Call of Duty (Modern versions / Frost Derek fan), Mortal Kombat (All eras), Kill Knight, Hatred, Postal series.
-*   **Atmospheric & Detective:** Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.
-*   **Pure Style:** STRAFE (That Doom aesthetic and god-tier soundtrack is unmatched).
-*   **Universes:** Metal Family (Independent Animation)
-*   **Audio-Driven Masterpieces:** Elden Ring // I am highly drawn to this game primarily due to its incredible soundtrack. I often look for games with exceptional scores like this, and I am always open to exploring more titles driven by phenomenal music.
+### $$\color{#7B96B8}\textsf{⟳ GAMES IN ROTATION AND INDIE GEMS}$$
+
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Tactical & Brutal:</b> Call of Duty (Modern versions / Frost Derek fan), Mortal Kombat (All eras), Kill Knight, Hatred, Postal series.</p>
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Atmospheric & Detective:</b> Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.</p>
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Pure Style:</b> STRAFE (That Doom aesthetic and god-tier soundtrack is unmatched).</p>
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Universe:</b> Metal Family (Independent Animation)</p>
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Elden Ring // I am highly drawn to this game primarily due to its incredible soundtrack. I often look for games with exceptional scores like this, and I am always open to exploring more titles driven by phenomenal music.</p>
 
 ### ⏳ NEW FRONTIERS
 *   `Dishonored` // This is in my library but remains unplayed. I can sometimes be hesitant to start entirely new things, but I am open to exploring new lore and sharing the experience if the timing is right.
@@ -84,23 +99,23 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 *   **Grim & Satirical:** The Boys (*"Fucking diabolical."*).
 *   **Past Primes:** Sonic The Hedgehog (A massive former era, deeply well-versed in titles/history) // Marvel Universe (Another significant past interest).
 *   **Forgotten Gems:** Randy Cunningham: 9th Grade Ninja, Egyptus, American Dragon, Ben 10, Danny Phantom.
-*   **Cyber-Action:** Metal Gear Rising: Revengeance, Metal Gear Solid (*"Rules of Nature!"*).
+*   **Cyber-Action Games:** Metal Gear Rising: Revengeance, Metal Gear Solid (*"Rules of Nature!"*).
 
 ---
 
 ## 🎧 THE AUDIO ARCHIVE
 I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
-*   **The Madness Sound:** Fleetwire, Odaxelagnia, Whiteburgg.
-*   **Melodic Violence:** Elfire.
+* ↳  **The Madness Sound:** Fleetwire, Odaxelagnia, Whiteburgg, SentryTurbo, Cryono.
+* ↳  **Melodic Violence:** Elfire, Obrifold, Cryono, Eshio.
 
 ---
 
-## 🎵 THE SOUNDCLOUD HUB
+## ♫ THE SOUNDCLOUD HUB
 > *"For those who care to listen."*
 
 Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
 
-*   **Station Link:** 🎧 **[Click here to visit my SoundCloud](https://soundcloud.com/beobnoxious/likes)**
+*   **Station Link:** ⚡︎ **[Click here to visit my SoundCloud](https://soundcloud.com/beobnoxious/likes)**
 *   **What I do:** I love curating tracklists, sharing music, and dropping heavy recommendations. If you have an ear for good audio, go ahead and explore my playlists.
 
 ---
