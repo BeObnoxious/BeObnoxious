@@ -27,7 +27,7 @@ $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋�
 
 ---
 
-### $$\color{#D9534F}\textsf{⚠ IMPORTANT:}\ \color{#7B96B8}\textsf{ANTI-XENOPHOBIA STANCE}$$
+## $$\color{#D9534F}\textsf{⚠ IMPORTANT:}\ \color{#7B96B8}\textsf{ANTI-XENOPHOBIA STANCE}$$
 
 There is no room here for political prejudice or national discrimination. I find the trend of excluding people based on their language or origin to be fundamentally flawed. If you support "Do Not Interact" lists based solely on nationality or engage in xenophobic gatekeeping, our views are incompatible. I stand firmly against such divisive attitudes.
 </td></tr></table>
@@ -56,7 +56,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-## $$\color{#7B96B8}\textsf{\textbf{⌖ THE OTHER HALF}}$$
+### $$\color{#7B96B8}\textsf{\textbf{⌖ THE OTHER HALF}}$$
 
 <table>
 <tr>
@@ -84,6 +84,8 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; backgrou
 [✦] ULTRAKILL       -> Stable GoPro Robot obsession. 
 ```
 
+---
+
 ### $$\color{#7B96B8}\textsf{⟳ GAMES IN ROTATION AND INDIE GEMS}$$
 
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Tactical & Brutal:</b> Call of Duty (Modern versions / Frost Derek fan), Mortal Kombat (All eras), Kill Knight, Hatred, Postal series.</p>
@@ -92,10 +94,14 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; backgrou
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Universe:</b> Metal Family (Independent Animation)</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Elden Ring // I am highly drawn to this game primarily due to its incredible soundtrack. I often look for games with exceptional scores like this, and I am always open to exploring more titles driven by phenomenal music.</p>
 
-### ⏳ NEW FRONTIERS
-*   `Dishonored` // This is in my library but remains unplayed. I can sometimes be hesitant to start entirely new things, but I am open to exploring new lore and sharing the experience if the timing is right.
+---
 
-### 📺 NOSTALGIA & MEDIA VAULT
+### $$\color{#7B96B8}\textsf{⧖ NEW FRONTIERS}$$
+`Dishonored` is in my library but remains unplayed. I can sometimes be hesitant to start entirely new things, but I am open to exploring new lore and sharing the experience if the timing is right.
+
+---
+
+### $$\color{#7B96B8}\textsf{⧉ NOSTALGIA AND MEDIA VAULT}$$
 *   **Grim & Satirical:** The Boys (*"Fucking diabolical."*).
 *   **Past Primes:** Sonic The Hedgehog (A massive former era, deeply well-versed in titles/history) // Marvel Universe (Another significant past interest).
 *   **Forgotten Gems:** Randy Cunningham: 9th Grade Ninja, Egyptus, American Dragon, Ben 10, Danny Phantom.
@@ -103,47 +109,50 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; backgrou
 
 ---
 
-## 🎧 THE AUDIO ARCHIVE
+## $$\color{#7B96B8}\textsf{♫ THE AUDIO ARCHIVE}$$
 I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
 * ↳  **The Madness Sound:** Fleetwire, Odaxelagnia, Whiteburgg, SentryTurbo, Cryono.
 * ↳  **Melodic Violence:** Elfire, Obrifold, Cryono, Eshio.
 
 ---
 
-## ♫ THE SOUNDCLOUD HUB
+### $$\color{#7B96B8}\textsf{▶ THE SOUNDCLOUD HUB}$$
 > *"For those who care to listen."*
 
 Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
 
-*   **Station Link:** ⚡︎ **[Click here to visit my SoundCloud](https://soundcloud.com/beobnoxious/likes)**
+*   **Station Link:** **[⚡︎ Click here to visit my SoundCloud ⚡︎](https://soundcloud.com)**
 *   **What I do:** I love curating tracklists, sharing music, and dropping heavy recommendations. If you have an ear for good audio, go ahead and explore my playlists.
 
 ---
 
 > [!CAUTION]
-> ### 🚨 DNI (DO NOT INTERACT) CRITERIA
+> ## $$\color{#7B96B8}\textsf{🚨 DNI (DO NOT INTERACT) CRITERIA}$$
 > *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about race. It’s about my intense dislike for people who deviate from the original source material and then try to shove their headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
 > *   **Forced AU Policemen:** People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
 > *   **Sensitivity:** My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
 
 ---
 
-## 💬 COMMS & CONNECTING
+## $$\color{#7B96B8}\textsf{✉ COMMS AND CONNECTING}$$
 
 Despite the branding, **I am open to chatting and meeting like-minded individuals.** While I usually stick with a close circle, I'm always happy to vibe with genuine people.
 
 *   **Looking for:** Fellow artists, classic Madness fans, achievement hunters, or Pony Town players who appreciate good character design.
-*   **Activity Boost:** 💬 **Drop a comment on my Steam profile! I always respond with mutual feedback and nice words to boost your page.**
+*   **Activity Boost:** → **Drop a comment on my Steam profile! I always respond with mutual feedback and nice words to boost your page.**
 
-<div align="center">
+---
 
-### 📊 Steam Hunter Progress
+## 🏆 $$\color{#7B96B8}\textsf{Steam Hunter Progress}$$
 **100% Achievements Club**
 
 ```diff
-+ [ ████████████████████████ ] 100% OBNOXIOUS & PREVAILING
++ [ ████████████████████████ ] 100% OBNOXIOUS AND PREVAILING
 ```
 
-### ⚙️ CURRENT STATUS: ONLINE ⚙️
+# ⚙ $$\color{#7B96B8}\textsf{CURRENT STATUS: ONLINE}$$ ⚙
+
+<br>
+<sub><font color="#30363D">System deployed: 15.05.2026</font></sub>
 
 </div>
