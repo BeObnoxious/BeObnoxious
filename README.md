@@ -66,8 +66,7 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; backgrou
 <i>$$\color{#FF6961}\textsf{"Two targets. One mission. If you see us together, you are already too late."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-<!-- Ссылка на твой красный PNG логотип Торда (Красного Лидера) -->
-<img width="42" height="42" alt="Red Leader Logo" src="https://github.com" />
+<img width="69" height="69" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
 </td>
 </tr>
 </table>
