@@ -127,8 +127,8 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 ---
 
 > [!CAUTION]
-> ## $$\color{#7B96B8}\textsf{🚨 DNI (DO NOT INTERACT) CRITERIA}$$
-> *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about race. It’s about my intense dislike for people who deviate from the original source material and then try to shove their headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
+> ## $$\color{#7B96B8}\textsf{⛔ DNI (DO NOT INTERACT) CRITERIA}$$
+> *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
 > *   **Forced AU Policemen:** People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
 > *   **Sensitivity:** My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
 
