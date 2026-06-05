@@ -60,13 +60,13 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 <table>
 <tr>
-<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;">
-CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
+<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;">CONNECTED TO: <a href="https://github.com"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
 <br><br>
-<i>$$\color{#FF6961}\textsf{"Two targets. One mission. If you see us together, you are already too late."}$$</i>
+
+### <i>$$\color{#FF6961}\textsf{"Two targets. One mission. If you see us together, you are already too late."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-<img width="69" height="69" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
+<img width="78" height="78" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
 </td>
 </tr>
 </table>
