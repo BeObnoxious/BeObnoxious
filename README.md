@@ -56,7 +56,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-### $$\color{#7B96B8}\textsf{\textbf{⌖ The Bitter Half}}$$
+### $$\color{#7B96B8}\textsf{\textbf{The Bitter Half}}$$
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-## $$\color{#7B96B8}\textsf{⚁ The Main Rotation (Priorities and Kins)}$$
+## $$\color{#7B96B8}\textsf{The Main Rotation (Priorities and Kins)}$$
 
 ```markdown
 [✦] EDDSWORLD       -> Kin: Tom (Keep it canon or don't talk to me) | "Holy trombone on a pogo stick!"
@@ -85,7 +85,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-### $$\color{#7B96B8}\textsf{⟳ Games In Rotation and Indie Gems}$$
+### $$\color{#7B96B8}\textsf{Games In Rotation and Indie Gems}$$
 
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Tactical & Brutal:</b> Prototype, Call of Duty (Modern versions / Frost Derek fan), Mortal Kombat (All eras), Kill Knight, Hatred, Postal series.</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Atmospheric & Detective:</b> Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.</p>
@@ -95,12 +95,12 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-### $$\color{#7B96B8}\textsf{⧖ New Frontiers}$$
+### $$\color{#7B96B8}\textsf{New Frontiers}$$
 `Dishonored` is in my library but remains unplayed. I can sometimes be hesitant to start entirely new things, but I am open to exploring new lore and sharing the experience if the timing is right.
 
 ---
 
-### $$\color{#7B96B8}\textsf{⧉ Nostalgia and Media Vault}$$
+### $$\color{#7B96B8}\textsf{Nostalgia and Media Vault}$$
 *   **Grim & Satirical:** The Boys (*"Fucking diabolical."*).
 *   **Past Primes:** Sonic The Hedgehog (A massive former era, deeply well-versed in titles/history) // Marvel Universe (Another significant past interest).
 *   **Forgotten Gems:** Randy Cunningham: 9th Grade Ninja, Egyptus, American Dragon, Ben 10, Danny Phantom.
@@ -108,7 +108,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 
 ---
 
-## $$\color{#7B96B8}\textsf{♫ The Audio Archive}$$
+## $$\color{#7B96B8}\textsf{The Audio Archive}$$
 I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
 * ↳  **The Madness Sound:** Fleetwire, Odaxelagnia, Whiteburgg, SentryTurbo, Cryono.
 * ↳  **Melodic Violence:** Elfire, Obrifold, Cryono, Eshio.
@@ -126,14 +126,14 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 ---
 
 > [!CAUTION]
-> ## $$\color{#7B96B8}\textsf{⛔ DNI (Do Not Interact) Criteria}$$
+> ## $$\color{#7B96B8}\textsf{ DNI (Do Not Interact) Criteria}$$
 > *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
 > *   **Forced AU Policemen:** People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
 > *   **Sensitivity:** My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
 
 ---
 
-## $$\color{#7B96B8}\textsf{✉ Connecting}$$
+## $$\color{#7B96B8}\textsf{Comms and Connecting}$$
 
 Despite the branding, **I am open to chatting and meeting like-minded individuals.** While I usually stick with a close circle, I'm always happy to vibe with genuine people.
 
@@ -152,6 +152,9 @@ Despite the branding, **I am open to chatting and meeting like-minded individual
 # $$\color{#7B96B8}\textsf{CURRENT STATUS: ONLINE}$$
 
 <br>
-<sub><font color="#30363D">System deployed: 15.05.2026</font></sub>
+</div>
+<div align="center">
+
+<sub><font color="#30363D">System deployed: 15.05.2026 │ Vital Intel: Autumn Mood</font></sub>
 
 </div>
