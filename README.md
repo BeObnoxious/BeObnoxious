@@ -157,6 +157,6 @@ Despite the branding, **I am open to chatting and meeting like-minded individual
 </div>
 <div align="center">
 
-<sub><font color="#30363D">System deployed: 15.05.2026 │ Vital Intel: Autumn Mood</font></sub>
+<sub><font color="#30363D">System deployed: 01.06.2026 │ Vital Intel: Autumn Mood</font></sub>
 
 </div>
