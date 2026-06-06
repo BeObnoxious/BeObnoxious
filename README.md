@@ -23,6 +23,8 @@ $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋�
 
 ＞   **Russian:** Native speaker.
 
+＞   **Lezgin:** Native speaker.
+
 <table><tr><td bgcolor="#1f232a" style="border-left: 4px solid #58A6FF; padding: 10px;">$$\color{#7B96B8}\textsf{\textbf{ⓘ Note:}}\ \color{#7B96B8}\textsf{\textbf{Clarification on Origin}}$$ <br><br> Living in Russia or speaking the language natively <b>does not</b> define my actual ethnicity or nationality. Do not make lazy assumptions based on geography.</td></tr></table>
 
 ---
