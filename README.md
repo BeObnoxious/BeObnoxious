@@ -41,7 +41,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 *   **Vibe:** Old-school Madness animator, target-driven achievement hunter, and a massive audio enthusiast with absolute pitch (not bragging, just how my brain is wired).
 *   **Art:** I do digital art using **Krita** directly on my pen display monitor. I love drawing and creating high-quality content.
 *   **Loc:** United Kingdom / Modern British format.
-*   **Status:** Often AFK, but feel free to reach out. You'll be absolutely lucky if I'm not AFK, so take your shot.
+*   **Status:** Often AFK, but feel free to reach out. You'll be absolutely lucky if I'm not AFK, so take your shot. Though, in some cases, I'm simply stuck with my <a href="#the-bitter-half"><b><font color="#FF6961">precious rival and dearest nuisance</font></b></a>.
 
 ---
 
