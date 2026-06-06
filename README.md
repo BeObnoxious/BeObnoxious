@@ -63,8 +63,7 @@ Cheers. I'm **BeObnoxious**. The name is a warning, a lifestyle, and a filter. I
 <td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;">CONNECTED TO: <a href="https://github.com/OlegOrHazar"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
 <br><br>
 
-### <i>$$\color{#FF6961}\textsf{"Two targets. One mission. If you see us together, you are already too late."}$$</i>
-</td>
+### <i>$$\color{#FF6961}\textsf{"Of course, you were completely lost without me."}$$</i>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
 <img width="78" height="78" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
 </td>
@@ -126,7 +125,7 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 ---
 
 > [!CAUTION]
-> ## $$\color{#7B96B8}\textsf{ DNI (Do Not Interact) Criteria}$$
+> ## DNI (Do Not Interact) Criteria
 > *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
 > *   **Forced AU Policemen:** People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
 > *   **Sensitivity:** My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
