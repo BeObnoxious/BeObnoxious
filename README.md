@@ -124,7 +124,7 @@ I grew up on pure Newgrounds gold and high-tier electronic violence. Current hea
 
 Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
 
-*   **Station Link:** **[⚡︎ Click here to visit my SoundCloud ⚡︎](https://soundcloud.com)**
+*   **Station Link:** **[⚡︎ Click here to visit my SoundCloud ⚡︎](https://soundcloud.com/beobnoxious/likes)**
 *   **What I do:** I love curating tracklists, sharing music, and dropping heavy recommendations. If you have an ear for good audio, go ahead and explore my playlists.
 
 ---
