@@ -5,7 +5,6 @@
 
 $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋}$$
 
-
 <img width="36" height="36" alt="roblox" src="https://github.com/user-attachments/assets/5c368d0d-da7f-484d-adab-ac4fefc28658" />
 <img width="36" height="36" alt="steam" src="https://github.com/user-attachments/assets/34f885d3-c797-40de-a1e9-444e0e58b8cb" />
 <img width="36" height="36" alt="discord" src="https://github.com/user-attachments/assets/89dedf9d-7e84-4e75-b4ec-78328cd075cd" />
@@ -16,11 +15,37 @@ $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋�
 [Discord](https://discordapp.com/944513793273249802)
 [SoundCloud](https://steamcommunity.com/profiles/76561198787328523/)
 
+## Navigation
+
+<table align="center" border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td><b>› 01.</b> <a href="#system-overview">System Overview</a></td>
+    <td><b>› 05.</b> <a href="#media-rotation">Games & Media Rotation</a></td>
+  </tr>
+  <tr>
+    <td><b>› 02.</b> <a href="#language-origin">Language & Origin</a></td>
+    <td><b>› 06.</b> <a href="#audio-archive">Audio Archive</a></td>
+  </tr>
+  <tr>
+    <td><b>› 03.</b> <a href="#anti-xenophobia">Anti-Xenophobia Stance</a></td>
+    <td><b>› 07.</b> <a href="#dni-criteria">DNI Criteria</a></td>
+  </tr>
+  <tr>
+    <td><b>› 04.</b> <a href="#ponytown-rules">Pony Town</a></td>
+    <td><b>› 08.</b> <a href="#comms-progress">Comms & Progress</a></td>
+  </tr>
+</table>
+
+<p align="center">
+</p>
+
 </div>
+
+<div id="language-origin"></div>
 
 ## $$\color{#7B96B8}\textsf{⚐ Language Bars}$$
 
-＞   Mr.Worldwide
+  Mr.Worldwide
 
 ＞  **English:** Fluent (British).
 
@@ -30,18 +55,23 @@ $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋�
 
 ---
 
+<div id="anti-xenophobia"></div>
+
 ## $$\color{#D9534F}\textsf{⚠ IMPORTANT:}\ \color{#7B96B8}\textsf{Anti-Xenophobia Stance}$$
 
 There is no room here for political prejudice or national discrimination. I find the trend of excluding people based on their language or origin to be fundamentally flawed. If you support "Do Not Interact" lists based solely on nationality or engage in xenophobic gatekeeping, our views are incompatible. I stand firmly against such divisive attitudes.
 </td></tr></table>
 
 ---
+
+<div id="system-overview"></div>
+
 ## $$\color{#7B96B8}\textsf{☠ System Overview (Who The Hell Am I?)}$$
 
-<p>Cheers. I'm <b>BeObnoxious</b>. The name is a warning, a lifestyle, and a filter. I'm not here to please everyone, but I always <b>prevail</b>.</p>
+<p>Cheers. I'm <b>BeObnoxious</b> (Obnox). I'm not here to please everyone, but I always <b>prevail</b>.</p>
 
 <ul>
-  <li><b>Vibe:</b> Old-school Madness animator, target-driven achievement hunter, and a massive audio enthusiast with absolute pitch (not bragging, just how my brain is wired).</li>
+  <li><b>Vibe:</b> Old-school Madness Combat animator, target-driven achievement hunter, and a massive audio enthusiast with absolute pitch (not bragging, just how my brain is wired).</li>
   <li><b>Art:</b> I do digital art using <b>Krita</b> directly on my pen display monitor. I love drawing and creating high-quality content.</li>
   <li><b>Loc:</b> United Kingdom / Modern British format.</li>
   <li><b>Status:</b> Often AFK, but feel free to reach out. You'll be absolutely lucky if I'm not AFK, so take your shot. Though, in some cases, I'm simply stuck with my <a href="#the-bitter-half"><b><font color="#FF6961">precious rival and dearest nuisance</font></b></a>.</li>
@@ -49,14 +79,14 @@ There is no room here for political prejudice or national discrimination. I find
 
 ---
 
-### $$\color{#7B96B8}\textsf{☊ Pony Town Rules and Boundaries}$$
+<div id="ponytown-rules"></div>
+
+## $$\color{#7B96B8}\textsf{☊ Pony Town Rules and Boundaries}$$
 
 *   **Whisper to Interact:** Preferred method of contact.
 *   **Skin Protection:** Do not copy my designs. I value originality.
 *   **Skin Creation:** I really love making detailed Pony Town skins and custom designs, though I admit I can be quite lazy when it comes to actually sitting down and building them.
 *   **Interaction:** Cuddles or social interactions are vibe-dependent.
-*   **⚚ SUPPORTER STATUS:** I am currently a Supporter. However, please do not ask for help with party limits or slot expansions. I am already in a party and cannot assist with these requests.
-
 ---
 
 <div id="the-bitter-half"></div>
@@ -78,6 +108,8 @@ There is no room here for political prejudice or national discrimination. I find
 
 ---
 
+<div id="media-rotation"></div>
+
 ## $$\color{#7B96B8}\textsf{The Main Rotation (Priorities and Kins)}$$
 
 ```markdown
@@ -96,12 +128,7 @@ There is no room here for political prejudice or national discrimination. I find
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Atmospheric & Detective:</b> Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Pure Style:</b> STRAFE (That Doom aesthetic and god-tier soundtrack is unmatched).</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Universe:</b> Metal Family (Independent Animation)</p>
-<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Elden Ring // I am highly drawn to this game primarily due to its incredible soundtrack. I often look for games with exceptional scores like this, and I am always open to exploring more titles driven by phenomenal music.</p>
-
----
-
-### $$\color{#7B96B8}\textsf{New Frontiers}$$
-`Dishonored` is in my library but remains unplayed. I can sometimes be hesitant to start entirely new things, but I am open to exploring new lore and sharing the experience if the timing is right.
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Killing Floor 2 & Elden Ring // I am highly drawn to these games primarily due to their incredible soundtracks. I often look for games with exceptional scores like these, and I am always open to exploring more titles driven by phenomenal music.</p>
 
 ---
 
@@ -113,10 +140,12 @@ There is no room here for political prejudice or national discrimination. I find
 
 ---
 
+<div id="audio-archive"></div>
+
 ## $$\color{#7B96B8}\textsf{The Audio Archive}$$
 I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
-* ↳  **The Madness Sound:** Fleetwire, Odaxelagnia, Whiteburgg, SentryTurbo, Cryono.
-* ↳  **Melodic Violence:** Elfire, Obrifold, Cryono, Eshio.
+* ↳  **The Madness Sound:** Burgg, Cryono, Eshio, Navoj, Djjaner
+* ↳  **Melodic Violence:** Elfire, Obrifold, Odaxelagnia, SentryTurbo, Fleetwire.
 
 ---
 
@@ -130,6 +159,8 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 
 ---
 
+<div id="dni-criteria"></div>
+
 > [!CAUTION]
 > ## DNI (Do Not Interact) Criteria
 > *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
@@ -138,6 +169,8 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 
 ---
 
+<div id="comms-progress"></div>
+
 ## $$\color{#7B96B8}\textsf{Comms and Connecting}$$
 
 Despite the branding, **I am open to chatting and meeting like-minded individuals.** While I usually stick with a close circle, I'm always happy to vibe with genuine people.
@@ -145,16 +178,9 @@ Despite the branding, **I am open to chatting and meeting like-minded individual
 *   **Looking for:** Fellow artists, classic Madness fans, achievement hunters, or Pony Town players who appreciate good character design.
 *   **Activity Boost:** → **Drop a comment on my Steam profile! I always respond with mutual feedback and nice words to boost your page.**
 
----
-
-## $$\color{#7B96B8}\textsf{Steam Hunter Progress}$$
-**100% Achievements Club**
-
 ```diff
 + [ ████████████████████████ ] 100% OBNOXIOUS AND PREVAILING
 ```
-
-# $$\color{#7B96B8}\textsf{CURRENT STATUS: ONLINE}$$
 
 <br>
 </div>
