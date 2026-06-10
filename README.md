@@ -3,17 +3,19 @@
 # ⚓︎ $$\color{#7B96B8}\textsf{BE OBNOXIOUS. ALWAYS PREVAIL.}$$
 *«I don't look for trouble. Trouble usually finds me.»*
 
-$$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋}$$
+$$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋}$$
 
-<img width="36" height="36" alt="roblox" src="https://github.com/user-attachments/assets/5c368d0d-da7f-484d-adab-ac4fefc28658" />
-<img width="36" height="36" alt="steam" src="https://github.com/user-attachments/assets/34f885d3-c797-40de-a1e9-444e0e58b8cb" />
-<img width="36" height="36" alt="discord" src="https://github.com/user-attachments/assets/89dedf9d-7e84-4e75-b4ec-78328cd075cd" />
-<img width="36" height="36" alt="soundcloud" src="https://github.com/user-attachments/assets/6e030ec6-d951-41a4-bdff-55604507e07d" />
+<img width="38" height="36" alt="roblox" src="https://github.com/user-attachments/assets/5c368d0d-da7f-484d-adab-ac4fefc28658" />
+<img width="38" height="36" alt="steam" src="https://github.com/user-attachments/assets/34f885d3-c797-40de-a1e9-444e0e58b8cb" />
+<img width="38" height="36" alt="discord" src="https://github.com/user-attachments/assets/89dedf9d-7e84-4e75-b4ec-78328cd075cd" />
+<img width="38" height="36" alt="soundcloud" src="https://github.com/user-attachments/assets/6e030ec6-d951-41a4-bdff-55604507e07d" />
 
 [Roblox](https://www.roblox.com/users/2203187066/profile)
 [Steam](https://steamcommunity.com/profiles/76561198787328523/)
 [Discord](https://discordapp.com/944513793273249802)
 [SoundCloud](https://steamcommunity.com/profiles/76561198787328523/)
+
+<img width="482" height="482" alt="Tom every single form by P-NIM" src="https://github.com/user-attachments/assets/ce85de3c-d032-4305-bf18-db009838009c" />
 
 ## Navigation
 
@@ -147,9 +149,6 @@ I grew up on pure Newgrounds gold and high-tier electronic violence. Current hea
 * ↳  **The Madness Sound:** Burgg, Cryono, Eshio, Navoj, Djjaner
 * ↳  **Melodic Violence:** Elfire, Obrifold, Odaxelagnia, SentryTurbo, Fleetwire.
 
----
-
-### $$\color{#7B96B8}\textsf{▶ The Soundcloud Hub}$$
 > *"For those who care to listen."*
 
 Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
