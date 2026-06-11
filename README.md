@@ -130,7 +130,7 @@ There is no room here for political prejudice or national discrimination. I find
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Atmospheric & Detective:</b> Murdered: Soul Suspect, Katana Zero, Rain World, Mouthwashing.</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Pure Style:</b> STRAFE (That Doom aesthetic and god-tier soundtrack is unmatched).</p>
 <p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Universe:</b> Metal Family (Independent Animation)</p>
-<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Killing Floor 2 & Elden Ring // I am highly drawn to these games primarily due to their incredible soundtracks. I often look for games with exceptional scores like these, and I am always open to exploring more titles driven by phenomenal music.</p>
+<p style="padding-left: 20px; text-indent: -20px; margin: 8px 0;">❯ &nbsp; <b>Audio-Driven Masterpieces:</b> Killing Floor 2, Trepang2 & Elden Ring // I am highly drawn to these games primarily due to their incredible soundtracks. I often look for games with exceptional scores like these, and I am always open to exploring more titles driven by phenomenal music.</p>
 
 ---
 
