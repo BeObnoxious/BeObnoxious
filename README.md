@@ -93,11 +93,11 @@ There is no room here for political prejudice or national discrimination. I find
 
 <div id="the-bitter-half"></div>
 
-### $$\color{#7B96B8}\textsf{\textbf{The Bitter Half}}$$
+### $$\color{#7B96B8}\textsf{\textbf{⫘ The Bitter Half}}$$
 
 <table>
 <tr>
-<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;">⫘ CONNECTED TO: <a href="https://github.com/OlegOrHazar"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
+<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;"> CONNECTED TO: <a href="https://github.com/OlegOrHazar"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
 <br><br>
 
 ### <i>$$\color{#FF6961}\textsf{"Of course, you were completely lost without me."}$$</i>
