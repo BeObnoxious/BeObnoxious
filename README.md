@@ -59,7 +59,7 @@ $$\color{#7B96B8}\textsf{≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋�
 
 <div id="anti-xenophobia"></div>
 
-## $$\color{#D9534F}\textsf{⚠ IMPORTANT:}\ \color{#7B96B8}\textsf{Anti-Xenophobia Stance}$$
+## $$\color{#7B96B8}\textsf{Anti-Xenophobia Stance}$$
 
 There is no room here for political prejudice or national discrimination. I find the trend of excluding people based on their language or origin to be fundamentally flawed. If you support "Do Not Interact" lists based solely on nationality or engage in xenophobic gatekeeping, our views are incompatible. I stand firmly against such divisive attitudes.
 </td></tr></table>
@@ -68,7 +68,7 @@ There is no room here for political prejudice or national discrimination. I find
 
 <div id="system-overview"></div>
 
-## $$\color{#7B96B8}\textsf{☠ System Overview (Who The Hell Am I?)}$$
+## $$\color{#7B96B8}\textsf{System Overview (Who The Hell Am I?)}$$
 
 <p>Cheers. I'm <b>BeObnoxious</b> (Obnox). I'm not here to please everyone, but I always <b>prevail</b>.</p>
 
@@ -83,7 +83,7 @@ There is no room here for political prejudice or national discrimination. I find
 
 <div id="ponytown-rules"></div>
 
-## $$\color{#7B96B8}\textsf{☊ Pony Town Rules and Boundaries}$$
+## $$\color{#7B96B8}\textsf{Pony Town Rules and Boundaries}$$
 
 *   **Whisper to Interact:** Preferred method of contact.
 *   **Skin Protection:** Do not copy my designs. I value originality.
@@ -93,14 +93,14 @@ There is no room here for political prejudice or national discrimination. I find
 
 <div id="the-bitter-half"></div>
 
-### $$\color{#7B96B8}\textsf{\textbf{⫘ The Bitter Half}}$$
+## $$\color{#FFB7C5}\textsf{\textbf{ꨄ The Bitter Half}}$$
 
 <table>
 <tr>
-<td bgcolor="#1f232a" style="border-left: 4px solid #7B96B8; padding: 15px; width: 100%;"> CONNECTED TO: <a href="https://github.com/OlegOrHazar"><code style="color: #FF6961; background-color: #261b1e; border: 1px solid #FF6961; padding: 2px 6px;">Al-Khazir</code></a>
+<td bgcolor="#1f232a" style="border-left: 4px solid #FFB7C5; padding: 15px; width: 100%;">Connected to: <a href="https://github.com/OlegOrHazar"><code style="color: #FFB7C5; background-color: #261b1e; border: 1px solid #FFB7C5; padding: 2px 6px;">Al-Khazir</code></a>
 <br><br>
 
-### <i>$$\color{#FF6961}\textsf{"Of course, you were completely lost without me."}$$</i>
+## <i>$$\color{#FF6961}\textsf{"Of course, you were completely lost without me."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
 <img width="78" height="78" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
@@ -120,6 +120,7 @@ There is no room here for political prejudice or national discrimination. I find
 [✦] HOTLINE MIAMI   -> 6-Year Hyperfixation | Biker enthusiast | "You're dead meat."
 [✧] MADNESS COMBAT  -> The OG Fandom | Simping Doc | Classic Lore Only (No Project Nexus stuff here)
 [✦] ULTRAKILL       -> Stable GoPro Robot obsession. 
+[✧] JUJUTSU KAISEN  -> Kin: Toge | "Katsuobushi flakes"
 ```
 
 ---
@@ -134,7 +135,7 @@ There is no room here for political prejudice or national discrimination. I find
 
 ---
 
-### $$\color{#7B96B8}\textsf{Nostalgia and Media Vault}$$
+## $$\color{#7B96B8}\textsf{Nostalgia and Media Vault}$$
 *   **Grim & Satirical:** The Boys (*"Fucking diabolical."*).
 *   **Past Primes:** Sonic The Hedgehog (A massive former era, deeply well-versed in titles/history) // Marvel Universe (Another significant past interest).
 *   **Forgotten Gems:** Randy Cunningham: 9th Grade Ninja, Egyptus, American Dragon, Ben 10, Danny Phantom.
