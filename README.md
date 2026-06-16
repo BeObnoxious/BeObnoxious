@@ -119,7 +119,7 @@ There is no room here for political prejudice or national discrimination. I find
 [✦] HOTLINE MIAMI   -> 6-Year Hyperfixation | Biker enthusiast | "You're dead meat."
 [✧] MADNESS COMBAT  -> The OG Fandom | Simping Doc | Classic Lore Only (No Project Nexus stuff here)
 [✦] ULTRAKILL       -> Stable GoPro Robot obsession. 
-[✧] JUJUTSU KAISEN  -> Kin: Toge | "Katsuobushi flakes"
+[✧] JUJUTSU KAISEN  -> Kin: Toge | "Katsuobushi flakes" | Eternally frozen in the "Golden Era" of the High Tokyo branch.
 ```
 
 ---
@@ -145,16 +145,12 @@ There is no room here for political prejudice or national discrimination. I find
 <div id="audio-archive"></div>
 
 ## $$\color{#7B96B8}\textsf{The Audio Archive}$$
-I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
-* ↳  **The Madness Sound:** Burgg, Cryono, Eshio, Navoj, Djjaner
-* ↳  **Melodic Violence:** Elfire, Obrifold, Odaxelagnia, SentryTurbo, Fleetwire.
 
 > *"For those who care to listen."*
 
-Music isn't just background noise to me — it's an obsession. If you are looking for top-tier electronic violence, underground beats, or just want a solid recommendation, my station is always open. 
-
-*   **Station Link:** **[⚡︎ Click here to visit my SoundCloud ⚡︎](https://soundcloud.com/beobnoxious/likes)**
-*   **What I do:** I love curating tracklists, sharing music, and dropping heavy recommendations. If you have an ear for good audio, go ahead and explore my playlists.
+I grew up on pure Newgrounds gold and high-tier electronic violence. Current heavy rotation:
+* ↳  **The Madness Sound:** Burgg, Cryono, Eshio, Navoj, Djjaner
+* ↳  **Melodic Violence:** Elfire, Obrifold, Odaxelagnia, SentryTurbo, Fleetwire.
 
 ---
 
@@ -162,9 +158,16 @@ Music isn't just background noise to me — it's an obsession. If you are lookin
 
 > [!CAUTION]
 > ## DNI (Do Not Interact) Criteria
-> *   **Forum Crybabies & Non-Canon Pushers:** If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
-> *   **Forced AU Policemen:** People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
-> *   **Sensitivity:** My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
+<details>
+<summary> Click to view</summary>
+
+
+• Forum Crybabies & Non-Canon Pushers: If you spend your days on discussion boards losing your mind over character designs (like throwing massive tantrums because Tom isn't drawn black or white, and aggressively whining about it) — please, jog on. To be clear: it’s absolutely not about prejudice. My stance is rooted in deep respect for the creators' original intent and the authentic 2-Tone ska culture that shaped the character. I stand firmly with the canon established by the authors, and I have zero tolerance for people who disregard the creators' choices just to force their own headcanons down everyone's throats. Keep your toxic fandom drama away from my zone.
+
+• Forced AU Policemen: People who force specific AU templates onto everyone and breed toxic fandom drama. Keep your broken logic away from my zone.
+
+• Sensitivity: My humor can be blunt and obnoxious. If you prefer a very softened environment, this space might not suit you.
+</details>
 
 ---
 
