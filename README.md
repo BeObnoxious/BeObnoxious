@@ -76,7 +76,7 @@ There is no room here for political prejudice or national discrimination. I find
   <li><b>Vibe:</b> Old-school Madness Combat animator, target-driven achievement hunter, and a massive audio enthusiast with absolute pitch (not bragging, just how my brain is wired).</li>
   <li><b>Art:</b> I do digital art using <b>Krita</b> directly on my pen display monitor. I love drawing and creating high-quality content.</li>
   <li><b>Loc:</b> United Kingdom / Modern British format.</li>
-  <li><b>Status:</b> Often AFK, but feel free to reach out. You'll be absolutely lucky if I'm not AFK, so take your shot. Though, in some cases, I'm simply stuck with my <a href="#the-bitter-half"><b><font color="#FF6961">precious rival and dearest nuisance</font></b></a>.</li>
+  <li><b>Status:</b> Often AFK, but feel free to reach out. You'll be absolutely lucky if I'm not AFK, so take your shot. </font></b></a>.</li>
 </ul>
 
 ---
@@ -89,23 +89,6 @@ There is no room here for political prejudice or national discrimination. I find
 *   **Skin Protection:** Do not copy my designs. I value originality.
 *   **Skin Creation:** I really love making detailed Pony Town skins and custom designs, though I admit I can be quite lazy when it comes to actually sitting down and building them.
 *   **Interaction:** Cuddles or social interactions are vibe-dependent.
----
-
-<div id="the-bitter-half"></div>
-
-## $$\color{#7B96B8}\textsf{\textbf{The Bitter Half}}$$
-
-<table>
-<tr>
-<td bgcolor="#1f232a" style="border-left: 4px solid #FFB7C5; padding: 15px; width: 100%;">Connected to: <a href="https://github.com/OlegOrHazar"><code style="color: #FFB7C5; background-color: #261b1e; border: 1px solid #7B96B8; padding: 2px 6px;">Al-Khazir</code></a>
-<br><br>
- <i>$$\color{#FF6961}\textsf{"Of course, you were completely lost without me."}$$</i>
-</td>
-<td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-<img width="78" height="78" alt="Red Leader Logo" src="https://github.com/user-attachments/assets/65aa77ac-9dd2-46f6-b1cd-0aaa35156518" />
-</td>
-</tr>
-</table>
 
 ---
 
